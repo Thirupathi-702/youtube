@@ -1,3 +1,10 @@
+### Video Streaming Platform
+Technologies :- React js, JavaScript, Redux, Tailwind.
+● Implemented a shimmer ef ect, utilized APIs for data fetching, and applied debouncing for optimized search.
+● Leveraged Redux Toolkit for state management and developed a live chat feature with API polling.
+● Stored cache during searches to enhance performance and implemented infinite loop commenting.
+● Designed a responsive UI for a smooth and interactive user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
